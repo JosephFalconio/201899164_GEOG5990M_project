@@ -3,7 +3,7 @@ Joseph Falconio Student No: 201899164 Final Project
 
 Research Topic: Investiagting the relationship between Deprivation and Stop & Search by Police in Leeds.
 
-This analysis explores whether people living in more deprived areas of Leeds are more liekly to be subject to stop and search by the police.
+This analysis investigates the relationship between socioeconomic deprivation and police stop and search activity in Leeds. Specifically, it explores whether individuals living in more deprived areas are disproportionately subject to stop and search by the police. By combining open data on police stop and search incidents with IMD data across different areas of Leeds, the project aims to uncover potential geographic and social disparities, contributing to policy changes and public discussion around fairness and plocing practices
 
 Three exploratory data sets are used:
 1) LSOA Boundaries downloaded from: https://geoportal.statistics.gov.uk/maps/761ecd09b4124843b95511a242e2b1a1
